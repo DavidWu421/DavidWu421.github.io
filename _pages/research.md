@@ -13,7 +13,7 @@ Your first paragraph here. You can write as much as you want in plain Markdown..
 
 ## Quasinormal Modes
 
-The ringdown portion of the gravitational wave signal from a black hole binary is a unique probe for the strong-field regime of gravity. In the linear regime, ringdown can be modeled as a sum of damped sinusoids. The resulting signal is then normally expressed as $$\sum_{\ell m n} A_{\ell m n}e^{-i \omega_{\ell m n} t}$$ where $\omega_{\ell m n}$ is complex. The real part encodes the oscillation frequency of the QNM, while the imaginary part encodes the decay rate.
+The ringdown portion of the gravitational wave signal from a black hole binary is a unique probe for the strong-field regime of gravity. In the linear regime, ringdown can be modeled as a sum of damped sinusoids. The resulting signal is then normally expressed as $$\sum_{\ell m n} A_{\ell m n}e^{-i \omega_{\ell m n} t}$$ where $\omega_{\ell m n}$ is complex. The real part encodes the oscillation frequency of the QNM, while the imaginary part encodes the decay rate. The actual values of the QNMs are very specific, determined directly from the spin $\chi$ and mass $M$ of the remnant black hole from the BBH merger. This allows for so called "black hole spectroscopy" where one can determine the mass and spin of the remnant from its QNM spectrum. Because the QNMs are so specific, deviations from these GR QNMs can indications of deviations from GR. Looking for deviations from GR in rindown can be supplemented by the calculation of QNMs in beyond GR theories, which is one of the focuses of my work.  
 
 ---
 
