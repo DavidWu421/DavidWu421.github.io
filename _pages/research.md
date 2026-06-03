@@ -13,7 +13,7 @@ Your first paragraph here. You can write as much as you want in plain Markdown..
 
 ## Quasinormal Modes
 
-Another section with more text...
+The ringdown portion of the gravitational wave signal from a black hole binary is a unique probe for the strong-field regime of gravity. In the linear regime, ringdown can be modeled as a sum of damped sinusoids. The resulting signal is then normally expressed as $$\sum_{\ell m n} A_{\ell m n}e^{-i \omega_{\ell m n} t}$$ where $\omega_{\ell m n}$ is complex. The real part encodes the oscillation frequency of the QNM, while the imaginary part encodes the decay rate.
 
 ---
 
