@@ -9,7 +9,7 @@ email: david.wu@utexas.edu # your email address
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 github: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo:  /assets/img/github.jpg # can be png, svg, jpg
+  logo:  /assets/img/github.png # can be png, svg, jpg
   title: GitHub
   url: https://github.com/DavidWu421
 linkedin: # can be any name here other than the ones already defined in the jekyll-socials plugin
