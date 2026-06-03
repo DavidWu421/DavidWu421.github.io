@@ -118,13 +118,28 @@ cv:
         url: https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.010121
         summary: As physics laboratory courses (labs) transition from traditional, model-verifying activities to discovery-based investigations, it becomes crucial to understand the role of the instructor in the implementation of various lab types. Prior work has started to address this need by examining either coarse-grained frequencies or fine-grained content of instructor interactions in labs. However, neither of these methods offer both a detailed and time-efficient procedure for measuring such interactions, which is required for comparisons across multiple sessions of several types of labs. Here we describe and present the results of a new approach to quantifying student-instructor interactions in labs by analyzing video recordings and drawing on techniques of social network analysis. Across five sections of three lab course offerings, we find that there is a higher total level of interaction between students and instructors in reformed discovery-based labs than in traditional labs. We find no clear pattern in the durations of student-initiated and instructor-initiated interactions across various instructors and lab types. The results suggest that the amount of interaction between instructors and students during lab is more a product of the instructional design than an individual instructor’s implementation of that design. This work is a preliminary step toward understanding the extent to which student-instructor interactions support the improved outcomes observed in discovery-based labs compared with traditional labs.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Examining the effects of lab instruction and gender composition on intergroup interaction networks in introductory physics labs
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Meagan Sundstrom
+          - David G. Wu
+          - Cole Walsh
+          - Ashley B. Heim
+          - N. G. Holmes
+        publisher: Physical Review Physics Education Research
+        releaseDate: 2022-01-04
+        url: https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.010102
+        summary: Understanding social interactions among students comprises a rich area of physics education research. Here we focus on the social interactions in introductory physics laboratories (labs). Most existing research in such contexts focuses on within-group social dynamics, however, we argue that interactions between different lab groups are just as valuable, especially in nontraditional (reformed) labs where students have more control over the experimental designs. Using video recordings of lab sessions and social network analysis methods, we examined whether and for how long groups interact with each other, comparing across three offerings of an introductory mechanics course. We observed significant variability in the interactions across lab sessions and no clear pattern in how strongly lab groups were connected in the networks between the different courses. More prolonged intergroup interactions, however, occurred in three of the four reformed lab sections, as compared to a traditional lab section and a reformed lab section that took place in the evening. We also developed a group-level social role classification scheme based on groups’ interaction patterns, identifying four roles: noninteractors, information seekers, responders, and mutual interactors. We found that groups in the traditional lab section disproportionately acted as noninteractors, indicating that many groups in this lab did not engage in intergroup interactions at all. In contrast, groups in reformed lab sections took on the remaining three roles more frequently. We also found possible relationships between the distributions of the social roles within each type of lab by the groups’ gender compositions. All-male groups took on interactive roles more often than all-female and mixed-gender groups in the reformed lab sections, but not in the traditional lab. Results indicate that the amount of time students spend on intergroup interactions may depend on the lab curriculum itself, the time of day of the section, and/or the student population of the section. Still, instructors can encourage collaboration between lab groups through direct prompts, but such prompts need to be repeated throughout the semester.
+
+      - title: Not engaging with problems in the lab: Students’ navigation of conflicting data and models
+        authors:
+          - Anna McLean Phillips
+          - Meagan Sundstrom
+          - David G. Wu
+          - N. G. Holmes
+        publisher: Physical Review Physics Education Research
+        releaseDate: 2021-08-26
+        url: https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.17.020112
+        summary: With the adoption of instructional laboratories that require students to make their own decisions, there is a need to better understand students’ activities as they make sense of their data and decide how to proceed. In particular, understanding when students do not engage productively with unexpected data may provide insights into how to better support students in more open-ended labs. We examine video and audio data from groups within a lab session where students were expected to find data inconsistent with the predictions of two models. In prior work, we examined the actions of the four groups that productively grapple with this designed problem. Here, we analyze the engagement of the three groups that do not. We conducted three phases of analysis: (1) documenting large scale behaviors and time spent in on-topic discussion, (2) analyzing interactions with the teaching assistant, and (3) identifying students’ framing—their expectations for what is taking place—when they were discussing their data. Our phase 1 and 2 analyses show only minor differences between the groups that engaged with the problem and those that did not. Our phase 3 analysis demonstrated that the groups that did not engage with the problem framed the lab activity as about confirming a known result or as a series of hoops to jump through to fulfill assignment requirements. Implications for instruction include supporting teaching assistants to attend to students’ framing and agency within laboratory classrooms.
 
     Skills:
       - name: Physics
