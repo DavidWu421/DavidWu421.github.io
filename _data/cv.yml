@@ -160,12 +160,18 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    Teaching and Mentoring:
+      - name: Teaching Assistant for Waves and Optics Lab
+        summary: Spring 2026
+      - name: Mentor for UT Physics Directed Reading Program
+        summary: Spring 2026
+      - name: Teaching Assistant for Intro Electricity and Magnetism
+        summary: Fall 2025
+      - name: Head TA for Intro Electricity and Magnetism Lab
+        summary: Fall 2024 - Spring 2025
+      - name: Teaching Assistant for Intro Electricity and Magnetism Lab
+        summary: Spring 2024
+      - name: Teaching Assistant for Intro Mechanics Lab
+        summary: Fall 2023     
+      
 
