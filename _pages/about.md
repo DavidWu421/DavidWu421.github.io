@@ -33,10 +33,10 @@ Before coming to UT Austin, I earned my B.A. in physics from Cornell University.
 
 Outside of physics, you can catch me playing ultimate frisbee in my free time, having played for both Cornell's and UT's club ultimate teams. If you're ever looking for a new sport to try, the ultimate community is one of the most beginner friendly communities you'll find!
 
-<a href="https://www.linkedin.com/in/david-wu-139067207/" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://www.linkedin.com/in/david-wu-139067207/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-linkedin"></i>
 </a>
 
 <a href="https://scholar.google.com/citations?user=4TufNTkAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-google-scholar"></i>
-</a>
+</a> -->
