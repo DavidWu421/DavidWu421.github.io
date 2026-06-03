@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a third year PhD student at the [Center for Gravitational Physics](https://weinberg.utexas.edu/research/center-gravitational-physics) at the University of Texas at Austin. My interests are in General Relativity, black holes, and gravitational waves. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before coming to UT Austin, I earned my B.A. in physics from Cornell University. While there, I worked as part of the [SXS Collarboration](https://www.black-holes.org/) under Professor Saul Teukolsky in Numerical Relativity. However, my first area or research was in physics education in the [Cornell Physics Education Research Lab](https://www.lassp.cornell.edu/natasha-holmes-group) with Professor Natasha Holmes.
 
 <a href="https://www.linkedin.com/in/david-wu-139067207/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-linkedin"></i>
