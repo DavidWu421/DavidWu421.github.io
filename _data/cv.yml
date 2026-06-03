@@ -15,37 +15,29 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 3801 Avenue G, Unit B
+    city: Austin
+    region: Texas
+    postalCode: 78751
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
+      - institution: University of Texas at Austin
+        location: Austin, Texas
+        url: https://www.utexas.edu/
         area: Physics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: August 2023
+        end_date: Present
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
+      - institution: Cornell University
+        location: Ithaca, New York
         area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
+        studyType: B.A.
+        start_date: August 2019
+        end_date: May 2023
+        
     Experience:
       - company: Institute for Advanced Study, Princeton University
         position: Professor of Theoretical Physics
