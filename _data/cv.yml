@@ -118,6 +118,18 @@ cv:
         url: https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.010121
         summary: As physics laboratory courses (labs) transition from traditional, model-verifying activities to discovery-based investigations, it becomes crucial to understand the role of the instructor in the implementation of various lab types. Prior work has started to address this need by examining either coarse-grained frequencies or fine-grained content of instructor interactions in labs. However, neither of these methods offer both a detailed and time-efficient procedure for measuring such interactions, which is required for comparisons across multiple sessions of several types of labs. Here we describe and present the results of a new approach to quantifying student-instructor interactions in labs by analyzing video recordings and drawing on techniques of social network analysis. Across five sections of three lab course offerings, we find that there is a higher total level of interaction between students and instructors in reformed discovery-based labs than in traditional labs. We find no clear pattern in the durations of student-initiated and instructor-initiated interactions across various instructors and lab types. The results suggest that the amount of interaction between instructors and students during lab is more a product of the instructional design than an individual instructor’s implementation of that design. This work is a preliminary step toward understanding the extent to which student-instructor interactions support the improved outcomes observed in discovery-based labs compared with traditional labs.
 
+      - title: Examining the effects of lab instruction and gender composition on intergroup interaction networks in introductory physics labs
+        authors:
+          - Meagan Sundstrom
+          - David G. Wu
+          - Cole Walsh
+          - Ashley B. Heim
+          - N. G. Holmes
+        publisher: Physical Review Physics Education Research
+        releaseDate: 2022-01-04
+        url: https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.010102
+        summary: ""
+
     Skills:
       - name: Physics
         level: Master
