@@ -2,7 +2,7 @@
 layout: page
 title: notes & writings
 permalink: /writings/
-description: Informal write-ups, notes, and other works.
+description: This is a collection of different personal notes and papers from classes. None of the work here is very polished, but I find it interesting nonetheless!
 nav: true
 nav_order: 4
 ---
