@@ -16,7 +16,7 @@ Much of my work focuses on the Modified Teukolsky formalism, a methedology for c
 
 ---
 
-## Figures
+<!-- ## Figures
 
 You can add images like this:
 
@@ -36,6 +36,7 @@ Or side by side:
     {% include figure.liquid path="assets/img/figure2.jpg" title="Right figure" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+-->
 
 ## References
 
