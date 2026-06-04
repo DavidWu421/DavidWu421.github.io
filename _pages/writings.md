@@ -18,10 +18,10 @@ nav_order: 4
       <a href="{{ writing.pdf }}" target="_blank" class="btn btn-sm btn-outline-primary">View PDF</a>
     {% endif %}
     {% if writing.github %}
-      <a href="{{ writing.github }}" target="_blank" class="btn btn-sm btn-outline-dark">GitHub</a>
+      <a href="{{ writing.github }}" target="_blank" class="btn btn-sm btn-outline-primary">GitHub</a>
     {% endif %}
     {% if writing.gif %}
-      <a href="{{ writing.gif }}" target="_blank" class="btn btn-sm btn-outline-secondary">View GIF</a>
+      <a href="{{ writing.gif }}" target="_blank" class="btn btn-sm btn-outline-primary">View GIF</a>
     {% endif %}
   </div>
 </div>
